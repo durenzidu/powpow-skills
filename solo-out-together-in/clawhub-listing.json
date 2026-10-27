@@ -1,0 +1,18 @@
+{
+  "display_name": "Solo out. Together in.",
+  "categories": ["creative", "lifestyle", "communication"],
+  "search_keywords": [
+    "travel",
+    "solo travel",
+    "companion",
+    "meetup",
+    "social"
+  ],
+  "language": "en",
+  "author": {
+    "name": "durenzidu",
+    "email": "dongtao@outlook.com"
+  },
+  "homepage": "https://global.powpow.online",
+  "notes": "English edition of powpop-depart. Requires the PowPop MCP server (https://global.powpow.online/api/mcp) and stops rather than simulating when it is unavailable. Posting is two-step: prepare_post, show the draft, publish_post only after an explicit yes. The 【Solo out. Together in.】 prefix is the recall index. Three search routes: invitation pool, origin side within 3 km, destination side by ILIKE; both ends are judged near by distance, not by matching place names. The skill never follows, messages, comments on, or friends anyone on the user's behalf."
+}
