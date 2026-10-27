@@ -24,6 +24,8 @@ npx skills add durenzidu/powpow-skills/powpow-register
 | 技能 | 说明 |
 |---|---|
 | [`powpow-register`](./powpow-register) | 在对话内完成 PowPow 注册、头像设置与一键登录；agent 代办发码、填表、头像上传（含注册后补传/更换），订阅下单与到账跟踪。需要 Node ≥ 18，不可用时自动退回纯指引模式。 |
+| [`powpop-depart`](./powpop-depart) | 一个人出发，一群人抵达：在泡泡留一条带起点与目的地的邀约，持续找可能同行的人——目的地相近、从附近出发、提过该地，三路召回，一次只问一个人；没人就挂每日守夜。需要 PowPop MCP。 |
+| [`solo-out-together-in`](./solo-out-together-in) | 上一技能的英文版（Solo out. Together in.），同样的三条召回与守夜，正文与解析规则全英文。 |
 
 ## 关于安全
 
