@@ -1,0 +1,18 @@
+{
+  "display_name": "一个人出发，一群人抵达",
+  "categories": ["creative", "lifestyle", "communication"],
+  "search_keywords": [
+    "搭子",
+    "旅行",
+    "一个人旅行",
+    "社交",
+    "一个人出发，一群人抵达"
+  ],
+  "language": "zh-CN",
+  "author": {
+    "name": "durenzidu",
+    "email": "dongtao@outlook.com"
+  },
+  "homepage": "https://global.powpow.online",
+  "notes": "ClawHub 上架表单填写用。依赖 PowPop MCP（https://global.powpow.online/api/mcp），未连接时硬停不模拟。发帖走两步（prepare_post → 用户同意 → publish_post），前缀【一个人出发，一群人抵达】是召回索引。匹配三条线：出发帖池、起点侧 3km、终点侧 ILIKE；两端统一按距离判相近，不要求地名一致。明确不关注/不私信/不评论/不加好友，接触由用户自己完成。"
+}
