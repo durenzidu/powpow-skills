@@ -2,11 +2,11 @@
 name: solo-out-together-in
 display_name: Solo out. Together in.
 display_name_en: Solo out. Together in.
-description: Start a "solo out" invitation on PowPop and keep finding people you could set off with. Triggers when the user says "I'm going to X, find me someone to go with", "I'm in A and want to go to B this weekend", or "keep watching for anyone heading the same way". How it works: it turns the origin and destination into one fixed-format post, then keeps searching three ways — people whose destination is near yours, people who set off near you, and people who have written about your destination. Both ends are judged "near" within 3 km; place names do not need to match exactly. Each candidate is offered one at a time, with a single question: want to ride along together? If nobody shows up, it offers to set up a nightly watch. **Requires the PowPop MCP server (https://global.powpow.online/api/mcp); never pretend to run without it.**
+description: 'Start a "solo out" invitation on PowPop and keep finding people you could set off with. Triggers when the user says "I''m going to X, find me someone to go with", "I''m in A and want to go to B this weekend", or "keep watching for anyone heading the same way". How it works: it turns the origin and destination into one fixed-format post, then keeps searching three ways — people whose destination is near yours, people who set off near you, and people who have written about your destination. Both ends are judged "near" within 3 km; place names do not need to match exactly. Each candidate is offered one at a time, with a single question: want to ride along together? If nobody shows up, it offers to set up a nightly watch. **Requires the PowPop MCP server (https://global.powpow.online/api/mcp); never pretend to run without it.**'
 description_zh: 英文版：在泡泡上发起「一个人出发」的邀约，按目的地相近、出发地相近、提过该地点三条线持续找同行者；必须连接 PowPop MCP 才能使用。
 description_en: Post a solo-out invitation on PowPop and keep finding people whose destination is near yours, who set off near you, or who wrote about your destination. Requires the PowPop MCP server.
 category: Social & Travel
-version: 1.0.0
+version: 1.0.1
 author: durenzidu
 ---
 
